@@ -1,4 +1,4 @@
-## Repository Guidelines
+## Repository Guidelines Edited V2
 
 This document summarizes how to work with the cognee repository: how it’s organized, how to build, test, lint, and contribute. It mirrors our actual tooling and CI while providing quick commands for local development.
 
