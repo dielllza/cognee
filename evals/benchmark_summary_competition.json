@@ -13,8 +13,8 @@
     ],
     "DeepEval EM": 0.687,
     "DeepEval EM Error": [
-      0.661,
-      0.717
+        0.661,
+        0.717
     ],
     "DeepEval F1": 0.841,
     "DeepEval F1 Error": [
